@@ -17,7 +17,7 @@
 - LinearLayout and Constraints
 
 ## How to Run:
-Copy the XML code into your Android Studio project under the appropriate layout folder then Run it
+Copy the XML code into your Android Studio project under the appropriate layout folder then Run it app/src/main/res/layout/activity_main.xml
 Or run it from MainActivit.kt in the Emulator
 
 ## Screenshot:
